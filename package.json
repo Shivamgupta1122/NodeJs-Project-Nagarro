@@ -1,0 +1,16 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "NodeJs Final Project using NodeJs, Express, and Sqlite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^5.21.6",
+    "sqlite3": "^4.1.1"
+  }
+}
